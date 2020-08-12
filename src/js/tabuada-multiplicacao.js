@@ -22,5 +22,28 @@ totalGeral += fatorMultiplicador * indice;
 console.log(`${fatorMultiplicador} * ${indice} : ${(fatorMultiplicador * indice)}`);
 indice++;
 
+totalGeral += fatorMultiplicador * indice;
+console.log(`${fatorMultiplicador} * ${indice} : ${(fatorMultiplicador * indice)}`);
+indice++;
+
+totalGeral += fatorMultiplicador * indice;
+console.log(`${fatorMultiplicador} * ${indice} : ${(fatorMultiplicador * indice)}`);
+indice++;
+
+totalGeral += fatorMultiplicador * indice;
+console.log(`${fatorMultiplicador} * ${indice} : ${(fatorMultiplicador * indice)}`);
+indice++;
+
+totalGeral += fatorMultiplicador * indice;
+console.log(`${fatorMultiplicador} * ${indice} : ${(fatorMultiplicador * indice)}`);
+indice++;
+
+totalGeral += fatorMultiplicador * indice;
+console.log(`${fatorMultiplicador} * ${indice} : ${(fatorMultiplicador * indice)}`);
+indice++;
+
+totalGeral += fatorMultiplicador * indice;
+console.log(`${fatorMultiplicador} * ${indice} : ${(fatorMultiplicador * indice)}`);
+
 console.log(`Total: ${totalGeral}`)
 

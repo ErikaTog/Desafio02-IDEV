@@ -22,4 +22,27 @@ totalGeral += fatorDivisor / indice;
 console.log(`${fatorDivisor} / ${indice} : ${(fatorDivisor / indice).toFixed(1)}`);
 indice++;
 
+totalGeral += fatorDivisor / indice;
+console.log(`${fatorDivisor} / ${indice} : ${(fatorDivisor / indice).toFixed(1)}`);
+indice++;
+
+totalGeral += fatorDivisor / indice;
+console.log(`${fatorDivisor} / ${indice} : ${(fatorDivisor / indice).toFixed(1)}`);
+indice++;
+
+totalGeral += fatorDivisor / indice;
+console.log(`${fatorDivisor} / ${indice} : ${(fatorDivisor / indice).toFixed(1)}`);
+indice++;
+
+totalGeral += fatorDivisor / indice;
+console.log(`${fatorDivisor} / ${indice} : ${(fatorDivisor / indice).toFixed(1)}`);
+indice++;
+
+totalGeral += fatorDivisor / indice;
+console.log(`${fatorDivisor} / ${indice} : ${(fatorDivisor / indice).toFixed(1)}`);
+indice++;
+
+totalGeral += fatorDivisor / indice;
+console.log(`${fatorDivisor} / ${indice} : ${(fatorDivisor / indice).toFixed(1)}`);
+
 console.log(`Total: ${totalGeral.toFixed(1)}`)

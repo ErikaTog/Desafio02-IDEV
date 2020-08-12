@@ -22,6 +22,28 @@ totalGeral += fatorDeAdicao + indice;
 console.log(`${fatorDeAdicao} + ${indice} : ${fatorDeAdicao + indice}`);
 indice++;
 
+totalGeral += fatorDeAdicao + indice;
+console.log(`${fatorDeAdicao} + ${indice} : ${fatorDeAdicao + indice}`);
+indice++;
+
+totalGeral += fatorDeAdicao + indice;
+console.log(`${fatorDeAdicao} + ${indice} : ${fatorDeAdicao + indice}`);
+indice++;
+
+totalGeral += fatorDeAdicao + indice;
+console.log(`${fatorDeAdicao} + ${indice} : ${fatorDeAdicao + indice}`);
+indice++;
+
+totalGeral += fatorDeAdicao + indice;
+console.log(`${fatorDeAdicao} + ${indice} : ${fatorDeAdicao + indice}`);
+indice++;
+
+totalGeral += fatorDeAdicao + indice;
+console.log(`${fatorDeAdicao} + ${indice} : ${fatorDeAdicao + indice}`);
+indice++;
+
+totalGeral += fatorDeAdicao + indice;
+console.log(`${fatorDeAdicao} + ${indice} : ${fatorDeAdicao + indice}`);
 
 console.log(`Total: ${totalGeral}`)
 
