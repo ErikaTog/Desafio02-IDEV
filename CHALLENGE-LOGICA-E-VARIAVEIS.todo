@@ -1,0 +1,28 @@
+DESAFIO-II:
+ok ☐ Crie um repositório no github 
+ok ☐ Dê acesso ao seu parceiro
+ok ☐ Coloque todo o conteúdo do desafio que está na pasta arquivos no seu repositório local
+ok ☐ Suba as atualizações para o github
+ok ☐ Utilizando o (Live Server) Abra no navegador o arquivo index.html que está dentro da pasta arquivos
+ok ☐ Abra o modo debugger (F12) e veja os erros de variáveis não definidas que aparece no console 
+ok ☐ Para cada erro defina a variável no arquivo arquivos/src/js/variaveis.js
+OBSERVAÇÃO:
+variáveis referente ao membro A devem ser definidas pelo membro A e variáveis 
+referente ao membro B devem ser definidas pelo membro B, as demais qualquer membro pode definir
+☐ Ao finalizar publique a página com github pages 
+
+CONTINUAÇÃO:
+Crie a tabuada de 7 para cada tipo de operação
+divisão, subtração , multiplicação e soma.
+OBSERVAÇÃO:
+Dentro da pasta arquivos/src/js tem um arquivo para cada operação
+Utilize o arquivo arquivos/src/js/tabuada-adicao.js como modelo
+
+☐ O fator multiplicador da tabuada deve ser uma variável
+☐ Membro A deve fazer as operações de 0 a 4
+☐ Membro B deve fazer as operações de 5 a 10
+☐ Salve o resultado de cada linha da tabuada em uma variável 
+☐ Insira um console log para imprimir cada linha da operação
+ - A saída no console deve ser "7 x 1 = 7"
+☐ Encontre o total geral somando o resultado de cada linha da tabuada
+
